@@ -29,9 +29,9 @@ Final D_HUN = {
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
         <br>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-         
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
         <br>
-        <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
         <img src="https://img.shields.io/badge/MyBatis-bf0603?style=flat&logo=Java&logoColor=white" />
     </p>
 </div>
