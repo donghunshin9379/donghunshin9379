@@ -20,9 +20,12 @@
 >개발 기간: 2023년 5월 18일 ~ 6월 20일
 >
 >기술 스택:  
->Apache Tomcat / Java / MyBatis / Oracle Database 
+>Apache Tomcat / Java / MyBatis / Oracle Database
+>
 >Jquery / CSS / HTML / JavaScript
->Spring-tool-suite / SQLDeveloper/ Apache Maven
+>
+>Spring / SQLDeveloper/ Apache Maven
+>
 >[프로젝트 상세 설명] https://github.com/donghunshin9379/AMANNA 참고
 
 ```
