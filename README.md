@@ -20,12 +20,13 @@
 > 개발 기간: 2023년 5월 18일 ~ 6월 20일   
 > 기술 스택:  
 > Back-end
-Apache Tomcat 9.0.73 / Java 1.8.0_361 / MyBatis 3.4.6 / Oracle Database 11g Express Edition Release 11.2.0.2.0
+Apache Tomcat 9.0.73 / Java 1.8.0_361 / MyBatis 3.4.6
+/ Oracle Database 11g Express Edition Release 11.2.0.2.0
 
 > Front-end
 Jquery 3.6.4 / CSS / HTML / JavaScript
  
-'Tools'
+> tools
 Spring-tool-suite-3.9.13
 SQLDeveloper-22.2.1.234.1810
 Apache Maven
