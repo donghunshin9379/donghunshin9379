@@ -12,18 +12,31 @@
 - 이메일: powershin97@icloud.com
 - 깃헙: https://github.com/donghunshin9379
 
-
+</br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. AMANNA
+> 유저 상호 매칭/채팅 웹 (팀 프로젝트)
+> 개발 기간: 2023년 5월 18일 ~ 6월 20일   
+> 기술 스택:  
+> Back-end
+Apache Tomcat 9.0.73
+Java 1.8.0_361
+MyBatis 3.4.6
+Oracle Database 11g Express Edition Release 11.2.0.2.0
+</br>
+> Front-end
+Jquery 3.6.4
+CSS
+HTML
+JavaScript
+ 
+'Tools'
+Spring-tool-suite-3.9.13
+SQLDeveloper-22.2.1.234.1810
+Apache Maven
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명] https://github.com/donghunshin9379/AMANNA 참고
 
 ```
 Final D_HUN = {
