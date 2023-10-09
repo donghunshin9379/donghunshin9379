@@ -16,20 +16,15 @@
 
 ## :pushpin: Projects
 ### 1. AMANNA
-> 유저 상호 매칭/채팅 웹 (팀 프로젝트)
-> 개발 기간: 2023년 5월 18일 ~ 6월 20일   
-> 기술 스택:  
-> Back-end
-Apache Tomcat 9.0.73 / Java 1.8.0_361 / MyBatis 3.4.6
-/ Oracle Database 11g Express Edition Release 11.2.0.2.0
+>유저 상호 매칭/채팅 웹 (팀 프로젝트)
+>개발 기간: 2023년 5월 18일 ~ 6월 20일
+>
+>기술 스택:  
 
-> Front-end
-Jquery 3.6.4 / CSS / HTML / JavaScript
- 
-> tools
-Spring-tool-suite-3.9.13
-SQLDeveloper-22.2.1.234.1810
-Apache Maven
+>Apache Tomcat 9.0.73 / Java 1.8.0_361 / MyBatis 3.4.6
+/ Oracle Database 11g Express Edition Release 11.2.0.2.0
+>Jquery 3.6.4 / CSS / HTML / JavaScript
+>Spring-tool-suite-3.9.13 / SQLDeveloper-22.2.1.234.1810 / Apache Maven
 >  
 >[프로젝트 상세 설명] https://github.com/donghunshin9379/AMANNA 참고
 
