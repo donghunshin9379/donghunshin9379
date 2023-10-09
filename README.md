@@ -1,8 +1,32 @@
-### ABOUT 신동훈
 
+
+
+
+
+### ABOUT 신동훈
+반갑습니다. 저는 지속적인 성장과 책임감을 추구하는 신동훈입니다. 
+
+## :pushpin: 자기소개
 **제조업** 현장에서 활동하다 IT **개발자**로 활동하고있는 신동훈입니다. 
 
+</br>
 
+## :pushpin: Contact
+- 이메일: powershin97@icloud.com
+- 깃헙: https://github.com/donghunshin9379
+
+
+
+## :pushpin: Projects
+### 1. [goQuality](https://github.com/Integerous/goQuality)
+>고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
+>개발 기간: 2019.2.18 ~ 2019.4.5  
+>  
+>기술 스택:  
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
+>H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>  
+>[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
 
 ```
 Final D_HUN = {
@@ -15,6 +39,7 @@ Final D_HUN = {
   String Why_I_Want_Change_Field = "제조업 현장에서 활동하며 IT분야가 점점 밀접해지는것을 느껴 개발자로 활동하게 되었습니다." ;
 }
 ```
+
 <hr>
 <div align="center">
     <h3>Tech Stack</h3>
