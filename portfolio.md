@@ -15,18 +15,28 @@
 </br>
 
 ## :pushpin: Projects
-### 1. AMANNA
->유저 상호 매칭/채팅 웹 (팀 프로젝트)
->개발 기간: 2023년 5월 18일 ~ 6월 20일
+### 1. hello-spring2
+> Spring 회원가입 및 로그인 (Spring Security)
+>개발 기간: 2024년 3월 18일 ~ 4월 12일
 >
 >기술 스택:  
->Apache Tomcat / Java / MyBatis / Oracle Database
->
->Jquery / CSS / HTML / JavaScript
->
->Spring / SQLDeveloper/ Apache Maven
->
->[프로젝트 상세 설명] https://github.com/donghunshin9379/AMANNA 참고
+> Java: Spring Boot (Spring MVC, Spring Data JPA), Spring Security, Gradle
+> ORM(Object-Relational Mapping): Hibernate
+> Servlet 컨테이너: Apache Tomcat
+
+> 관계형 데이터베이스: MariaDB
+> HeidiSQL을 통한 MariaDB 데이터베이스 관리 및 개발
+
+> JSP(JavaServer Pages) 및 JSTL(JavaServer Pages Standard Tag Library)
+> Project Lombok
+> Spring Security
+> 
+>[프로젝트 상세 설명] https://github.com/donghunshin9379/hello-spring2/tree/main
+
+
+
+
+
 
 ```
 Final D_HUN = {
