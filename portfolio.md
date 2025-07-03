@@ -10,7 +10,7 @@
 
 ## :pushpin: Contact
 - 이메일: powershin97@icloud.com
-- 깃헙: https://github.com/donghunshin9379
+- 깃허브: https://github.com/donghunshin9379
 
 </br>
 
@@ -25,7 +25,7 @@
 > Servlet 컨테이너: Apache Tomcat
 
 > 관계형 데이터베이스: MariaDB
-> HeidiSQL을 통한 MariaDB 데이터베이스 관리 및 개발
+> MySQL을 통한 MariaDB 데이터베이스 관리 및 개발
 
 > JSP(JavaServer Pages) 및 JSTL(JavaServer Pages Standard Tag Library)
 > Project Lombok
@@ -44,7 +44,7 @@ Final D_HUN = {
 
   String What_I_Studied =  "경영학과";
 
-  String Where_I_Worked =  "현덕산업(포장가공제조업)";
+  String Where_I_Worked =  "현덕산업";
 
   String Why_I_Want_Change_Field = "제조업 현장에서 활동하며 IT분야가 점점 밀접해지는것을 느껴 개발자로 활동하게 되었습니다." ;
 }
